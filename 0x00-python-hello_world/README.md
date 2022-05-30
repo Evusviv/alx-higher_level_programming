@@ -1,1 +1,2 @@
-A Shell script that runs a Python script
+0. Run Python file
+1. Run inline
